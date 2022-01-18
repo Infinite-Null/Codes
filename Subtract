@@ -7,6 +7,6 @@ int main()
   cin>>a;
   cout<<"Enter the second Number: ";
   cin>>b;
-  cout<<"Addition="<<a-b;;
+  cout<<"Subtraction="<<a-b;;
   return 0;
 }
