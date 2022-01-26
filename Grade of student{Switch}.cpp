@@ -7,7 +7,7 @@ int main(){
   f=(a+b+c+d+e)/5.0;
   g=f/10;
 switch(g){
-	case 0:
+    case 0:
     case 1:
     case 2:
     case 3:
@@ -17,18 +17,18 @@ switch(g){
     case 5:
 	    cout<<"You have scored C,'You Need To Study!'";
 	    break;
-	case 6:
-	case 7:
+     case 6:
+     case 7:
 	    cout<<"Ok! You have scored B,'You can Do better!'";	
 		break;
-	case 8:
+     case 8:
 	    cout<<"Congrats You have scored A";	
 		break;
-	case 9:
-	case 10:
+      case 9:
+      case 10:
 	     cout<<"Congrats You have scored A+";
 		 break;
-	default:
+       default:
 	    cout<<"Enter valid input.....";	 		
 }
 return 0;
