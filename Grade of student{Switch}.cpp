@@ -14,7 +14,7 @@ switch(g){
     	cout<<"You have scored F,'Failure is a key to success!'";
     	break;
     case 4:
-	case 5:
+    case 5:
 	    cout<<"You have scored C,'You Need To Study!'";
 	    break;
 	case 6:
